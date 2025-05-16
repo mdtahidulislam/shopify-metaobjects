@@ -9,12 +9,12 @@
 |Metaobject System    |Shopify's backend system that manages all metaobject data|The engine that stores/retrieves your "Brand" data|
 
 ## 2. Simple Example: Creating a "Brand" System
-### Definition:  
+### 1. Definition:  
 |ID  |Name  |Model   |
 |----|------|--------|
 |  - |  -   |   -    |
 |  - |  -   |   -    |
-### Metaobjects (Actual Brand Entries):
+### 2. Metaobjects (Actual Brand Entries):
 |ID  |Name  |Model      |
 |----|------|-----------|
 |  1 |BMW   |BMW X1     |
