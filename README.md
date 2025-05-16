@@ -5,6 +5,7 @@
 -- exist **independently** and can be **referenced by metafields**  
 
 ## When to use:
+
 ### 1. Core Components
 |Term|Description|Example (Brand System)|
 |----|-----------|----------------------|
