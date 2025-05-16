@@ -9,7 +9,7 @@
 |Metaobject System    |Shopify's backend system that manages all metaobject data|The engine that stores/retrieves your "Brand" data|
 
 ## 2. Simple Example: Creating a "Brand" System
-Definition: 
+Definition:  
 |Term|Description|Example (Brand System)|
 |----|-----------|----------------------|
 
