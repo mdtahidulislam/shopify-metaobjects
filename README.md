@@ -1,1 +1,1 @@
-# shopify-metaobjects
+# Metaobjects
