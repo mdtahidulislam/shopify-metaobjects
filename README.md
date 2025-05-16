@@ -1,8 +1,9 @@
 # Metaobjects
 ## What it is:
--- Entirely new <b>resources</b> by making new custom objects as like product, collection etc. <br>
--- custom data structures beyond Shopify's standard resources <br>
--- exist independently and can be referenced by metafields <br>
+-- Entirely new **resources** by making new custom objects as like product, collection etc.  
+-- **custom data structures** beyond Shopify's standard resources  
+-- exist **independently** and can be **referenced by metafields**  
+
 ## When to use:
 ### 1. Core Components
 |Term|Description|Example (Brand System)|
