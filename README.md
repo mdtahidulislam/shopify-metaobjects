@@ -13,7 +13,7 @@
 |Metaobject           |An actual entry/instance of that definition (like a row in a database)|"Nike" (with logo + description)|
 |Metaobject System    |Shopify's backend system that manages all metaobject data|The engine that stores/retrieves your "Brand" data|
 
-*** Metaobject JSON Template
+**Metaobject JSON Template**
 
 ### 2. Simple Example: Creating a "Brand"
 #### 1. Definition:  
