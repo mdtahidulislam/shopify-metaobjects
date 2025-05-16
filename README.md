@@ -10,6 +10,6 @@
 
 ## 2. Simple Example: Creating a "Brand" System
 Definition:  
-|Term|Description|Example (Brand System)|
-|----|-----------|----------------------|
+|ID|Column 1|Column 2|
+|----|------|--------|
 
