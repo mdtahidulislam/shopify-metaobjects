@@ -1,6 +1,6 @@
 # Metaobjects
 ## What it is:
--- Entirely new **resources** by making new custom objects as like product, collection etc.  
+-- Entirely new **resources** by making new **custom objects** as like product, collection etc.  
 -- **custom data structures** beyond Shopify's standard resources  
 -- exist **independently** and can be **referenced by metafields**  
 
