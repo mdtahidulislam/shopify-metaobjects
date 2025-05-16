@@ -38,9 +38,16 @@
 |type      |
 |url       |
 ## Reources:
+### Theory:
 * [metaobjects](https://shopify.dev/docs/api/liquid/objects/metaobjects)
 * [capabilities](https://shopify.dev/docs/apps/build/custom-data/metaobjects/use-metaobject-capabilities)
 * [standard-definitions](https://shopify.dev/docs/apps/build/custom-data/metaobjects/list-of-standard-definitions)
 * [standard definitions](https://shopify.dev/docs/apps/build/custom-data/metaobjects/list-of-standard-definitions)
 * [limits](https://shopify.dev/docs/apps/build/custom-data/metaobjects/metaobject-limits)
-
+### Object:
+* [metaobjects](https://shopify.dev/docs/api/liquid/objects/metaobjects)
+* [metaobject_definition](https://shopify.dev/docs/api/liquid/objects/metaobject_definition)
+* [metaobject](https://shopify.dev/docs/api/liquid/objects/metaobject)
+* [metaobject system](https://shopify.dev/docs/api/liquid/objects/metaobject_system)
+### Template:
+* [Metaobject Template](https://shopify.dev/themes/architecture/templates/metaobject)
